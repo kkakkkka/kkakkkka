@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kkakkkka&show_icons=true&theme=vue&count_private=true" alt="kkakkkka's github stats" />
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on my study.
@@ -9,4 +11,3 @@
 - 📫 How to reach me: xuzn3@mail2.sysu.edu.cn
 - 👀 My homepage: xuzn.top
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kkakkkka&show_icons=true&theme=vue&count_private=true" alt="kkakkkka's github stats" />
